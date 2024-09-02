@@ -1,0 +1,6 @@
+@pulkitapi_HostAddress = http://localhost:5188
+
+GET {{pulkitapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

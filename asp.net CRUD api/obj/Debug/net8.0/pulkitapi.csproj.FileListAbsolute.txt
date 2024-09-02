@@ -1,0 +1,72 @@
+/Users/pulkitkhandelwal/pulkitapi/bin/Debug/net8.0/appsettings.Development.json
+/Users/pulkitkhandelwal/pulkitapi/bin/Debug/net8.0/appsettings.json
+/Users/pulkitkhandelwal/pulkitapi/bin/Debug/net8.0/pulkitapi
+/Users/pulkitkhandelwal/pulkitapi/bin/Debug/net8.0/pulkitapi.deps.json
+/Users/pulkitkhandelwal/pulkitapi/bin/Debug/net8.0/pulkitapi.runtimeconfig.json
+/Users/pulkitkhandelwal/pulkitapi/bin/Debug/net8.0/pulkitapi.dll
+/Users/pulkitkhandelwal/pulkitapi/bin/Debug/net8.0/pulkitapi.pdb
+/Users/pulkitkhandelwal/pulkitapi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/pulkitkhandelwal/pulkitapi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/pulkitkhandelwal/pulkitapi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/pulkitkhandelwal/pulkitapi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/pulkitkhandelwal/pulkitapi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/pulkitkhandelwal/pulkitapi/obj/Debug/net8.0/pulkitapi.csproj.AssemblyReference.cache
+/Users/pulkitkhandelwal/pulkitapi/obj/Debug/net8.0/pulkitapi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pulkitkhandelwal/pulkitapi/obj/Debug/net8.0/pulkitapi.AssemblyInfoInputs.cache
+/Users/pulkitkhandelwal/pulkitapi/obj/Debug/net8.0/pulkitapi.AssemblyInfo.cs
+/Users/pulkitkhandelwal/pulkitapi/obj/Debug/net8.0/pulkitapi.csproj.CoreCompileInputs.cache
+/Users/pulkitkhandelwal/pulkitapi/obj/Debug/net8.0/pulkitapi.MvcApplicationPartsAssemblyInfo.cs
+/Users/pulkitkhandelwal/pulkitapi/obj/Debug/net8.0/pulkitapi.MvcApplicationPartsAssemblyInfo.cache
+/Users/pulkitkhandelwal/pulkitapi/obj/Debug/net8.0/staticwebassets.build.json
+/Users/pulkitkhandelwal/pulkitapi/obj/Debug/net8.0/staticwebassets.development.json
+/Users/pulkitkhandelwal/pulkitapi/obj/Debug/net8.0/staticwebassets/msbuild.pulkitapi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/pulkitkhandelwal/pulkitapi/obj/Debug/net8.0/staticwebassets/msbuild.build.pulkitapi.props
+/Users/pulkitkhandelwal/pulkitapi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.pulkitapi.props
+/Users/pulkitkhandelwal/pulkitapi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.pulkitapi.props
+/Users/pulkitkhandelwal/pulkitapi/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/pulkitkhandelwal/pulkitapi/obj/Debug/net8.0/scopedcss/bundle/pulkitapi.styles.css
+/Users/pulkitkhandelwal/pulkitapi/obj/Debug/net8.0/pulkitapi.csproj.Up2Date
+/Users/pulkitkhandelwal/pulkitapi/obj/Debug/net8.0/pulkitapi.dll
+/Users/pulkitkhandelwal/pulkitapi/obj/Debug/net8.0/refint/pulkitapi.dll
+/Users/pulkitkhandelwal/pulkitapi/obj/Debug/net8.0/pulkitapi.pdb
+/Users/pulkitkhandelwal/pulkitapi/obj/Debug/net8.0/pulkitapi.genruntimeconfig.cache
+/Users/pulkitkhandelwal/pulkitapi/obj/Debug/net8.0/ref/pulkitapi.dll
+/Users/pulkitkhandelwal/pulkitapi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/pulkitkhandelwal/pulkitapi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/pulkitkhandelwal/pulkitapi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/bin/Debug/net8.0/appsettings.Development.json
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/bin/Debug/net8.0/appsettings.json
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/bin/Debug/net8.0/pulkitapi
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/bin/Debug/net8.0/pulkitapi.deps.json
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/bin/Debug/net8.0/pulkitapi.runtimeconfig.json
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/bin/Debug/net8.0/pulkitapi.dll
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/bin/Debug/net8.0/pulkitapi.pdb
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/obj/Debug/net8.0/pulkitapi.csproj.AssemblyReference.cache
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/obj/Debug/net8.0/pulkitapi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/obj/Debug/net8.0/pulkitapi.AssemblyInfoInputs.cache
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/obj/Debug/net8.0/pulkitapi.AssemblyInfo.cs
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/obj/Debug/net8.0/pulkitapi.csproj.CoreCompileInputs.cache
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/obj/Debug/net8.0/pulkitapi.MvcApplicationPartsAssemblyInfo.cs
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/obj/Debug/net8.0/pulkitapi.MvcApplicationPartsAssemblyInfo.cache
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/obj/Debug/net8.0/staticwebassets.build.json
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/obj/Debug/net8.0/staticwebassets.development.json
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/obj/Debug/net8.0/staticwebassets/msbuild.pulkitapi.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/obj/Debug/net8.0/staticwebassets/msbuild.build.pulkitapi.props
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.pulkitapi.props
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.pulkitapi.props
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/obj/Debug/net8.0/scopedcss/bundle/pulkitapi.styles.css
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/obj/Debug/net8.0/pulkitapi.csproj.Up2Date
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/obj/Debug/net8.0/pulkitapi.dll
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/obj/Debug/net8.0/refint/pulkitapi.dll
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/obj/Debug/net8.0/pulkitapi.pdb
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/obj/Debug/net8.0/pulkitapi.genruntimeconfig.cache
+/Users/pulkitkhandelwal/Desktop/asp.net CRUD api/obj/Debug/net8.0/ref/pulkitapi.dll
